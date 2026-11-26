@@ -1,0 +1,174 @@
+{
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "p": "frontiermilitary:block/metal_fence",
+    "m": "frontiermilitary:block/metal_fence_mesh",
+    "particle": "frontiermilitary:block/metal_fence"
+  },
+  "elements": [
+    {
+      "from": [
+        7.25,
+        11,
+        0
+      ],
+      "to": [
+        8.75,
+        12.5,
+        8
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            5,
+            8,
+            6.5
+          ],
+          "texture": "#p"
+        },
+        "west": {
+          "uv": [
+            0,
+            5,
+            8,
+            6.5
+          ],
+          "texture": "#p"
+        },
+        "up": {
+          "uv": [
+            0,
+            3,
+            1.5,
+            11
+          ],
+          "texture": "#p"
+        },
+        "down": {
+          "uv": [
+            0,
+            3,
+            1.5,
+            11
+          ],
+          "texture": "#p"
+        }
+      }
+    },
+    {
+      "from": [
+        7.4,
+        1,
+        0
+      ],
+      "to": [
+        8.6,
+        1.8,
+        8
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            5,
+            8,
+            5.8
+          ],
+          "texture": "#p"
+        },
+        "west": {
+          "uv": [
+            0,
+            5,
+            8,
+            5.8
+          ],
+          "texture": "#p"
+        },
+        "up": {
+          "uv": [
+            0,
+            3,
+            1.2,
+            11
+          ],
+          "texture": "#p"
+        },
+        "down": {
+          "uv": [
+            0,
+            3,
+            1.2,
+            11
+          ],
+          "texture": "#p"
+        }
+      }
+    },
+    {
+      "from": [
+        8,
+        1.8,
+        0
+      ],
+      "to": [
+        8,
+        11,
+        8
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            0,
+            8,
+            9.2
+          ],
+          "texture": "#m"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            8,
+            9.2
+          ],
+          "texture": "#m"
+        }
+      }
+    },
+    {
+      "from": [
+        8,
+        12,
+        0
+      ],
+      "to": [
+        8,
+        16,
+        8
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            11,
+            8,
+            15
+          ],
+          "texture": "#m"
+        },
+        "west": {
+          "uv": [
+            0,
+            11,
+            8,
+            15
+          ],
+          "texture": "#m"
+        }
+      }
+    }
+  ]
+}

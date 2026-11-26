@@ -1,0 +1,23 @@
+{
+  "itemGroup.frontiermilitary": "Frontier Military",
+  "block.frontiermilitary.metal_fence": "Military Metal Fence",
+  "block.frontiermilitary.security_bars": "Security Bars",
+  "block.frontiermilitary.concrete_barrier": "Concrete Barrier",
+  "block.frontiermilitary.watch_post_lamp": "Watch Post Lamp",
+  "item.frontiermilitary.pulse_sidearm": "Service Pistol",
+  "item.frontiermilitary.pistol_ammo": "Pistol Ammo",
+  "item.frontiermilitary.field_ration": "Field Ration",
+  "item.frontiermilitary.reinforced_fiber": "Reinforced Fiber",
+  "entity.frontiermilitary.bullet": "Bullet",
+  "key.frontiermilitary.reload": "Reload Weapon",
+  "key.categories.frontiermilitary": "Frontier Military",
+  "message.frontiermilitary.no_ammo": "No ammo",
+  "hud.frontiermilitary.reloading": "Reloading",
+  "tooltip.frontiermilitary.pistol.ammo": "Magazine: %1$s / %2$s",
+  "tooltip.frontiermilitary.pistol.hint": "Right click: fire. Reload key: reload (needs Pistol Ammo)",
+  "death.attack.frontiermilitary.bullet": "%1$s was shot",
+  "death.attack.frontiermilitary.bullet.player": "%1$s was shot by %2$s",
+  "subtitles.frontiermilitary.pistol_shot": "Pistol fires",
+  "subtitles.frontiermilitary.pistol_dry": "Pistol clicks",
+  "subtitles.frontiermilitary.pistol_reload": "Pistol reloads"
+}

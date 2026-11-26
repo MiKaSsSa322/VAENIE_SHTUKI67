@@ -1,0 +1,82 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "frontiermilitary:block/concrete_barrier_post"
+      }
+    },
+    {
+      "when": {
+        "north": "low"
+      },
+      "apply": {
+        "model": "frontiermilitary:block/concrete_barrier_side"
+      }
+    },
+    {
+      "when": {
+        "north": "tall"
+      },
+      "apply": {
+        "model": "frontiermilitary:block/concrete_barrier_side_tall"
+      }
+    },
+    {
+      "when": {
+        "east": "low"
+      },
+      "apply": {
+        "model": "frontiermilitary:block/concrete_barrier_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "east": "tall"
+      },
+      "apply": {
+        "model": "frontiermilitary:block/concrete_barrier_side_tall",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "low"
+      },
+      "apply": {
+        "model": "frontiermilitary:block/concrete_barrier_side",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "south": "tall"
+      },
+      "apply": {
+        "model": "frontiermilitary:block/concrete_barrier_side_tall",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "low"
+      },
+      "apply": {
+        "model": "frontiermilitary:block/concrete_barrier_side",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "west": "tall"
+      },
+      "apply": {
+        "model": "frontiermilitary:block/concrete_barrier_side_tall",
+        "y": 270
+      }
+    }
+  ]
+}

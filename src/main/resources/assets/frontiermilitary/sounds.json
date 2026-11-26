@@ -1,0 +1,72 @@
+{
+  "item.pistol.shot": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:pistol_shot_1",
+        "volume": 1.0,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "frontiermilitary:pistol_shot_2",
+        "volume": 1.0,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "frontiermilitary:pistol_shot_3",
+        "volume": 1.0,
+        "attenuation_distance": 64
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.pistol_shot"
+  },
+  "item.pistol.dry": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:pistol_dry",
+        "volume": 0.8,
+        "attenuation_distance": 16
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.pistol_dry"
+  },
+  "item.pistol.mag_out": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:mag_out",
+        "volume": 0.8,
+        "attenuation_distance": 16
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.pistol_reload"
+  },
+  "item.pistol.mag_in": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:mag_in",
+        "volume": 0.8,
+        "attenuation_distance": 16
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.pistol_reload"
+  },
+  "item.pistol.slide_back": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:slide_back",
+        "volume": 0.8,
+        "attenuation_distance": 16
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.pistol_reload"
+  },
+  "item.pistol.slide_forward": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:slide_forward",
+        "volume": 0.9,
+        "attenuation_distance": 16
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.pistol_reload"
+  }
+}

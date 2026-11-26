@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "frontiermilitary:block/watch_post_lamp"
+    },
+    "hanging=true": {
+      "model": "frontiermilitary:block/watch_post_lamp_hanging"
+    }
+  }
+}

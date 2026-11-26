@@ -1,0 +1,23 @@
+{
+  "itemGroup.frontiermilitary": "Frontier Military",
+  "block.frontiermilitary.metal_fence": "Военное металлическое ограждение",
+  "block.frontiermilitary.security_bars": "Защитная решётка",
+  "block.frontiermilitary.concrete_barrier": "Бетонный барьер",
+  "block.frontiermilitary.watch_post_lamp": "Фонарь поста охраны",
+  "item.frontiermilitary.pulse_sidearm": "Служебный пистолет",
+  "item.frontiermilitary.pistol_ammo": "Пистолетные патроны",
+  "item.frontiermilitary.field_ration": "Полевой паёк",
+  "item.frontiermilitary.reinforced_fiber": "Усиленное волокно",
+  "entity.frontiermilitary.bullet": "Пуля",
+  "key.frontiermilitary.reload": "Перезарядить оружие",
+  "key.categories.frontiermilitary": "Frontier Military",
+  "message.frontiermilitary.no_ammo": "Нет патронов",
+  "hud.frontiermilitary.reloading": "Перезарядка",
+  "tooltip.frontiermilitary.pistol.ammo": "Магазин: %1$s / %2$s",
+  "tooltip.frontiermilitary.pistol.hint": "ПКМ — выстрел. Клавиша перезарядки — перезарядка (нужны пистолетные патроны)",
+  "death.attack.frontiermilitary.bullet": "%1$s застрелен",
+  "death.attack.frontiermilitary.bullet.player": "%2$s застрелил игрока %1$s",
+  "subtitles.frontiermilitary.pistol_shot": "Выстрел из пистолета",
+  "subtitles.frontiermilitary.pistol_dry": "Щелчок пистолета",
+  "subtitles.frontiermilitary.pistol_reload": "Перезарядка пистолета"
+}

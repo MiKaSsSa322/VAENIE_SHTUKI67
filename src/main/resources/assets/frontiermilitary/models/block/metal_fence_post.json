@@ -1,0 +1,196 @@
+{
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "p": "frontiermilitary:block/metal_fence",
+    "m": "frontiermilitary:block/metal_fence_mesh",
+    "particle": "frontiermilitary:block/metal_fence"
+  },
+  "elements": [
+    {
+      "from": [
+        5.5,
+        0,
+        5.5
+      ],
+      "to": [
+        10.5,
+        1,
+        10.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            5,
+            1
+          ],
+          "texture": "#p"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            5,
+            1
+          ],
+          "texture": "#p"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            5,
+            1
+          ],
+          "texture": "#p"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            5,
+            1
+          ],
+          "texture": "#p"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            5,
+            5
+          ],
+          "texture": "#p"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            5,
+            5
+          ],
+          "texture": "#p"
+        }
+      }
+    },
+    {
+      "from": [
+        6.5,
+        1,
+        6.5
+      ],
+      "to": [
+        9.5,
+        15,
+        9.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            1,
+            5,
+            16
+          ],
+          "texture": "#p"
+        },
+        "east": {
+          "uv": [
+            2,
+            1,
+            5,
+            16
+          ],
+          "texture": "#p"
+        },
+        "south": {
+          "uv": [
+            2,
+            1,
+            5,
+            16
+          ],
+          "texture": "#p"
+        },
+        "west": {
+          "uv": [
+            2,
+            1,
+            5,
+            16
+          ],
+          "texture": "#p"
+        }
+      }
+    },
+    {
+      "from": [
+        6,
+        15,
+        6
+      ],
+      "to": [
+        10,
+        16,
+        10
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            1,
+            0,
+            5,
+            1
+          ],
+          "texture": "#p"
+        },
+        "east": {
+          "uv": [
+            1,
+            0,
+            5,
+            1
+          ],
+          "texture": "#p"
+        },
+        "south": {
+          "uv": [
+            1,
+            0,
+            5,
+            1
+          ],
+          "texture": "#p"
+        },
+        "west": {
+          "uv": [
+            1,
+            0,
+            5,
+            1
+          ],
+          "texture": "#p"
+        },
+        "up": {
+          "uv": [
+            1,
+            1,
+            5,
+            5
+          ],
+          "texture": "#p"
+        },
+        "down": {
+          "uv": [
+            1,
+            1,
+            5,
+            5
+          ],
+          "texture": "#p"
+        }
+      }
+    }
+  ]
+}

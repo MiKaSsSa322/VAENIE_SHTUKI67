@@ -1,0 +1,76 @@
+{
+  "textures": {
+    "b": "frontiermilitary:block/security_bars",
+    "particle": "frontiermilitary:block/security_bars"
+  },
+  "elements": [
+    {
+      "from": [
+        6.5,
+        0,
+        6.5
+      ],
+      "to": [
+        9.5,
+        16,
+        9.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            1,
+            0,
+            4,
+            16
+          ],
+          "texture": "#b"
+        },
+        "east": {
+          "uv": [
+            1,
+            0,
+            4,
+            16
+          ],
+          "texture": "#b"
+        },
+        "south": {
+          "uv": [
+            1,
+            0,
+            4,
+            16
+          ],
+          "texture": "#b"
+        },
+        "west": {
+          "uv": [
+            1,
+            0,
+            4,
+            16
+          ],
+          "texture": "#b"
+        },
+        "up": {
+          "uv": [
+            1,
+            1,
+            4,
+            4
+          ],
+          "texture": "#b"
+        },
+        "down": {
+          "uv": [
+            1,
+            1,
+            4,
+            4
+          ],
+          "texture": "#b"
+        }
+      }
+    }
+  ]
+}
